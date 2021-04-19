@@ -10,9 +10,9 @@ switchers.forEach((item) => {
   });
 });
 
-loginButton.addEventListener("submit", function (e) {
-  e.preventDefault();
-  window.location("landing.html");
-});
+// loginButton.addEventListener("submit", function (e) {
+//   e.preventDefault();
+//   window.location("LandingPage.html");
+// });
 
 //////////
