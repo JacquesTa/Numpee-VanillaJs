@@ -73,7 +73,7 @@ new Chart(document.getElementById("bar-chart"), {
   },
 });
 
-/////////---------COUNTER--------////////////////
+/////////---------COUNTER--------///////////////
 function update_users_count() {
   $("#users").animate(
     {

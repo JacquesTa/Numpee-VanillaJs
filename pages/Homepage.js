@@ -64,7 +64,7 @@ const headerObserver = new IntersectionObserver(stickyNav, {
 
 headerObserver.observe(header);
 
-// Open Form
+// Open Sign-in-up Form
 
 openFormButton.addEventListener("click", function (e) {
   e.preventDefault();
